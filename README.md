@@ -31,7 +31,6 @@ Dataset source: [Kaggle - Housing Prices Dataset](https://www.kaggle.com/dataset
 ## 📈 Evaluation Metrics
 
 - R² Score (Coefficient of Determination)
-- Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 

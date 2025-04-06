@@ -7,7 +7,6 @@ This project utilizes the [Housing Prices Dataset](https://www.kaggle.com/datase
 The notebook includes the following key steps:
 - Data loading and inspection
 - Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
 - Feature selection
 - Model building using Multiple Linear Regression
 - Model evaluation

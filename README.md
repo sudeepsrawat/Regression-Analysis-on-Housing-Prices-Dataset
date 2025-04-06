@@ -1,4 +1,3 @@
-```markdown
 # 🏠 Housing Price Prediction using Multiple Linear Regression
 
 This project utilizes the [Housing Prices Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) from Kaggle to predict real estate prices using a Multiple Linear Regression model. The goal is to estimate property prices based on various housing features such as area, number of bedrooms, bathrooms, and more.
@@ -32,6 +31,7 @@ Dataset source: [Kaggle - Housing Prices Dataset](https://www.kaggle.com/dataset
 ## 📈 Evaluation Metrics
 
 - R² Score (Coefficient of Determination)
+- Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 
@@ -41,16 +41,18 @@ Dataset source: [Kaggle - Housing Prices Dataset](https://www.kaggle.com/dataset
    ```bash
    git clone https://github.com/your-username/housing-price-regression.git
    cd housing-price-regression
-   ```
 
-2. **Install required packages**
-
+2. Install the required packages    
    Create a virtual environment (optional but recommended), and install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-   ```
 
-3. **Run the notebook**
+   - pandas
+   - numpy
+   - matplotlib
+   - scikit-learn
+                       
+   ```bash
+   pip install pandas numpy matplotlib scikit-learn jupyter
+
+3. Run the Jupyter Notebook
    ```bash
    jupyter notebook housing_price_prediction.ipynb
-   ```

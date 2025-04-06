@@ -37,8 +37,8 @@ Dataset source: [Kaggle - Housing Prices Dataset](https://www.kaggle.com/dataset
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/housing-price-regression.git
-   cd housing-price-regression
+   git clone https://github.com/sudeepsrawat/Regression-Analysis-on-Housing-Prices-Dataset.git
+   cd Regression-Analysis-on-Housing-Prices-Dataset
 
 2. Install the required packages    
    Create a virtual environment (optional but recommended), and install dependencies:
@@ -53,4 +53,4 @@ Dataset source: [Kaggle - Housing Prices Dataset](https://www.kaggle.com/dataset
 
 3. Run the Jupyter Notebook
    ```bash
-   jupyter notebook housing_price_prediction.ipynb
+   jupyter notebook Housing_Prices_Regression.ipynb
